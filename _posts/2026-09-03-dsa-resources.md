@@ -1,6 +1,6 @@
 ---
 title: Resources
-date: 2026-09-03 12:00:00 +0000
+date: 2026-09-03 12:00:00 +0530
 categories: [DSA, Introduction]
 tags: [DSA, Introduction]
 ---
