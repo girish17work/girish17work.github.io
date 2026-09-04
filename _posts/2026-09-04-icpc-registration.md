@@ -1,8 +1,8 @@
 ---
-title: DSA Club Guidelines
+title: ICPC Registration
 date: 2026-09-04 13:00:00 +0530
 categories: [DSA, Introduction]
-tags: [DSA, Introduction]
+tags: [DSA, ICPC]
 ---
 
 # ICPC [WIP]
