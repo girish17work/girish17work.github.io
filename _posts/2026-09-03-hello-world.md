@@ -8,4 +8,4 @@ tags: [DSA, Introduction]
 Sharing resources for DSA here
 
 1. [Leetcode](https://leetcode.com/)
-2. [Codeforces](http://codeforces.com/)
+2. [Codeforces](https://codeforces.com/)
