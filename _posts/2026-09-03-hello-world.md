@@ -1,9 +1,11 @@
 ---
-title: Hello World (Chirpy Style)
+title: Resources
 date: 2026-09-03 12:00:00 +0000
-categories: [Coding, Tutorials]
-tags: [jekyll, markdown]
+categories: [DSA, Introduction]
+tags: [DSA, Introduction]
 ---
 
-This is my first post utilizing the gorgeous dark-mode Chirpy theme! 
+Sharing resources for DSA here
 
+1. [Leetcode](https://leetcode.com/)
+2. [Codeforces](http://codeforces.com/)
