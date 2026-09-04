@@ -7,7 +7,7 @@ tags: [DSA, Introduction]
 
 Sharing resources for DSA here
 
-1. [Leetcode](https://leetcode.com/)
-2. [Codeforces](https://codeforces.com/)
+1. [Leetcode](https://leetcode.com/){:target="_blank"}
+2. [Codeforces](https://codeforces.com/){:target="_blank"}
 
-For students preparing for DSA, start with [Neetcode 250](https://neetcode.io/practice/practice/neetcode250){target: "_blank"} and for students preparing for Competitive Programming, start with curated problems from [A2OJ ladders[(https://a2oj.online/){target: "_blank"}. Make sure to document new things you learn and share it in GSpace if you find it interesting. 
+For students preparing for DSA, start with [Neetcode 250](https://neetcode.io/practice/practice/neetcode250){:target="_blank"} and for students preparing for Competitive Programming, start with curated problems from [A2OJ ladders](https://a2oj.online/){:target="_blank"}. Make sure to document new things you learn and share it in GSpace if you find it interesting. 
