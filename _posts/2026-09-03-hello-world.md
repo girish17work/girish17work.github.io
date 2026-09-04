@@ -1,6 +1,6 @@
 ---
 title: Hello World (Chirpy Style)
-date: 2026-09-04 12:00:00 +0000
+date: 2026-09-03 12:00:00 +0000
 categories: [Coding, Tutorials]
 tags: [jekyll, markdown]
 ---
