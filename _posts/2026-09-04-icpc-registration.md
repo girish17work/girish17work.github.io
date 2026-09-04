@@ -41,10 +41,11 @@ Before thinking about registering for the contest, please go through these probl
 ### Steps
 
 1. Register your team at [ICPC Global](https://icpc.global/login){:target="_blank"}
-2. Choose the region as Asia West and the on-site region you wish to contest. A team may register for at most two Indian regional sites, but registration and the preliminary-round fee must be completed separately for each site, and it's recommended you keep the same team members across sites. Only those teams that qualify the online preliminary contest will be invited to participate in the On-site contest based on the rank. Ranking and cut-off details will be revealed later by the respective regions.
+2. Choose the region as Asia West and the on-site region you wish to contest. A team may register for at most two Indian regional sites, but registration and the preliminary-round fee must be completed separately for each site, and it's recommended you keep the same team members across sites. Only those teams that qualify the online preliminary contest will be invited to participate in the On-site contest based on the rank. Ranking and cut-off details will be revealed later by the respective regions
+3. For further steps regarding submission of proof of payment, go through the registration process mentioned in the respective On-site websites mentioned above
 
 ### Eligibility
 
-* A contestant is eligible if they first began post-secondary studies in 2022 or later, or were born in 2003 or later, per the ICPC Global eligibility rules.
+* A contestant is eligible if they first began post-secondary studies in 2022 or later, or were born in 2003 or later, per the ICPC Global eligibility rules
 * All participants must be strictly from the same institution
 * Read the official eligibility rules [here](https://icpc.global/regionals/rules){:target="_blank"}
